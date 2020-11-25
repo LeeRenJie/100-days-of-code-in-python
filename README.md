@@ -10,7 +10,12 @@ A band name generator from the input of users of their country and a random pet 
 3. Learned that "\n" brings the cursor/content to the next line in the same print function
 
 Day 2(https://repl.it/@LeeRen1/D24-Tip-calculator-startPOTD):
+Created a simple calculator that takes in input of the total bill, percentage of tips to be given and the amount of people to split the bill. 
+1. Applied the f string(found it really convenient)
+2. Reminded me that inputs are in string data type and has to be converted into float/integers before dong any calculations
+3. Reminded me how to round off with a specified decimal number "rounding_off=Round(2.666666,2)" = 2.66
 
 Day 3(https://repl.it/@LeeRen1/D36-Treasure-islandPOTD):
+
 
 Day 4():
