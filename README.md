@@ -23,4 +23,4 @@ Created a storytelling like treasure island adventure where each steps u take le
 3. Reminded me that indentation is important in python
 4. Had fun! 😆
 
-<b>Day 4()</b>:<br>
+<b>Day 4</b>():<br>
