@@ -1,7 +1,8 @@
 # 100-days-of-code-in-python
-Udemy Angela Yu's course that has 100 projects for students to make each day with classes for 2 hours each day. This repository will store all the related projects. If you are intrested in any code files, please run the code in an IDE for python.
+Udemy Angela Yu's course that has 100 projects for students to make each day with classes with duration of 1~2 hours each day.<br>
+This repository will store all the related projects. If you are intrested in any code files, please run the code in an IDE for python.<hr>
 
-Below would a summary of what I've learned everyday and the link to fork in Repl.it:
+Below is my summary of what I've learned everyday and the link to fork the project in Repl.it(Online IDE):
 
 Day 1 (https://repl.it/@LeeRen1/D1-Band-name-generatorPOTD):<br>
 A band name generator from the input of users of their country and a random pet name.
