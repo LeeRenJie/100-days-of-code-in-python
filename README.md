@@ -23,4 +23,18 @@ Created a storytelling like treasure island adventure where each steps u take le
 3. Reminded me that indentation is important in python
 4. Had fun! 😆
 
-<b>Day 4</b>():<br>
+<b>Day 4</b>(https://repl.it/@LeeRen1/D44-rock-paper-scissors-POTD):<br>
+Created a simple rock-paper-scissors game👊🤚✌ where the computer's move is randomly generated using the random.choice after putting all moves into a list and selecting randomly.
+1. Overall,learned about lists and how flexible it is whether it is to extend the list, replacing the item, choose a specific item with index starting from 0 from front and -1 from back, extending the list with another list from input and more
+2. Learned that nested list and list_name[1][1] means choosing the second nested list in the general list and then choosing the second item from the selected list.
+3. Revised if/elif/else statements and nested ifs
+4. Learned about the python random module and differentiating between random.randint(starting index,ending index)/random.float()/random.choice(list_name)
+5. Aware of index error and in most situation the index has to -1 since the computer starts counting from 0
+
+<b>Day 5</b>():<br>
+
+<b>Day 6</b>():<br>
+
+<b>Day 7</b>():<br>
+
+<b>Day 8</b>():<br>
