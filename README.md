@@ -31,10 +31,17 @@ Created a simple rock-paper-scissors game👊🤚✌ where the computer's move i
 4. Learned about the python random module and differentiating between random.randint(starting index,ending index)/random.float()/random.choice(list_name)
 5. Aware of index error and in most situation the index has to -1 since the computer starts counting from 0
 
-<b>Day 5</b>():<br>
+<b>Day 5</b>(https://repl.it/@LeeRen1/D55-Password-generatorPOTD#main.py):<br>
+Created a password generator that takes the user input for number of lettters/symbols/numbers wanted in the password then generated two types of password, first is following the sequence where it goes from letters to numbers and the second harder password is to shuffle the sequence od the password so that there is no specific pattern to ensure maximum security.🔒
+1. Learned the fundamentals of for loops and for loop with a range[for x in range(start, end, step/gap)] 
+2. Learned that I cant shuffle strings with the random.shuffle but i can shuffle a list!
+3. Learned how to convert a list into a string (line 46-49)
+4. Learned the logic behind for loops and it took my some time to finally understand the concept.😵 Definitely need more practice with the algorithm and structure
 
 <b>Day 6</b>():<br>
 
 <b>Day 7</b>():<br>
 
 <b>Day 8</b>():<br>
+
+<b>Day 9</b>():<br>
