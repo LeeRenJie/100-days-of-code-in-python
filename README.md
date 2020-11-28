@@ -38,7 +38,8 @@ Created a password generator that takes the user input for number of lettters/sy
 3. Learned how to convert a list into a string (line 46-49)
 4. Learned the logic behind for loops and it took my some time to finally understand the concept.😵 Definitely need more practice with the algorithm and structure
 
-<b>Day 6</b> (https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json):<br>
+<b>Day 6</b> 
+(https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json):<br>
 Applied while loops in the website Reeborg's World to solve the maze challenge where the robot spins at every move and you have to reach to the flag without hitting the walls.(The tip was to follow the right side)
 1. Code for: Hurdle 1 to 4 and POTD:MAZE in the file(two different challenges)
 2. Learned about while loops where it will continue to execute if the condition is true
