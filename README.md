@@ -49,7 +49,12 @@ Applied while loops in the website Reeborg's World to solve the maze challenge w
 6. Learned about creating functions and calling them
 7. Had fun and headache at the same time.
 
-<b>Day 7</b> ():<br>
+<b>Day 7</b> (https://repl.it/@LeeRen1/D75-HangmanPOTD#main.py):<br>
+Built the hangman game. User has to guess a word and has limited chances.
+1. Learned how to import modules and import the list/variables into the main file.
+2. Reminded me the way to apply while and for loop
+3. Had to figure out the logic step by step and focus on the indentation
+4. Learned "in" to check if a statement is true (If x in y) 
 
 <b>Day 8</b> ():<br>
 
