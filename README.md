@@ -56,6 +56,13 @@ Built the hangman game. User has to guess a word and has limited chances.
 3. Had to figure out the logic step by step and focus on the indentation
 4. Learned "in" to check if a statement is true (If x in y) 
 
-<b>Day 8</b> ():<br>
+<b>Day 8</b> (https://repl.it/@LeeRen1/D84-caesar-cipherPOTD#main.py):<br>
+Created a program that can encrpyt or decrypt the user's input based on the number of shift they enter(move alphabets front or back). The encoded word can be decoded if the shift is the same.<br>(For example: To encode: Word=hello shift=5 > encoded word=mjqqt(shifted behind 5 alphabets) To decode: Word=mjqqt, shift=5(same shift amount) > decoded word=hello)
+1. Applied functions, if-else statements, while loops, for loops, and many more that I learned in the past few days
+2. Reminded me how to  import variables from another file(the ASCII art in this case)
+3. Reminded me of the concept of modulo "%"
+4.  Reminded me of the logic behind for loops and used it to debug the program
+5. Learned about parameters and arguments, functions, functions with more than one inputs, the difference between positional arguments and keyword arguments
+6. Needed to review the code several times to understand the logic behind..
 
 <b>Day 9</b> ():<br>
