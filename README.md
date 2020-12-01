@@ -65,4 +65,17 @@ Created a program that can encrpyt or decrypt the user's input based on the numb
 5. Learned about parameters and arguments, functions, functions with more than one inputs, the difference between positional arguments and keyword arguments
 6. Needed to review the code several times to understand the logic behind..
 
-<b>Day 9</b> ():<br>
+<b>Day 9</b> (https://repl.it/@LeeRen1/D9-blind-auction-startPOTD#main.py):<br>
+Created a program based on the concept of a silent auction where the concept is that nobody knows how much the bidders has bid and at the end of the auctionn the bidder with highest bid wins!
+1. Learned about dictionaries, {key : value, key : value}, Adding another key+value, Edit a key to another value, Nesting dictionaries in list and vice versa, Nesting dict .in dict.,Looping through dict., access value from nested dict. and more.
+2. Reminded me the logic and concept of while loops, for loops , if/else statement. 
+3. Learned that dictionaries will be useful in the future to access data in keys.
+
+<b>Day 10</b> ():<br>
+
+<hr style="width:70%">
+<b>Day 11</b> ():<br>
+
+<b>Day 12</b> ():<br>
+
+<b>Day 13</b> ():<br>
