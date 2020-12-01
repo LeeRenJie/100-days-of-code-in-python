@@ -73,7 +73,7 @@ Created a program based on the concept of a silent auction where the concept is 
 
 <b>Day 10</b> ():<br>
 
-<hr style="width:50%";"color:red">
+<hr>
 <b>Day 11</b> ():<br>
 
 <b>Day 12</b> ():<br>
