@@ -1,6 +1,6 @@
 # 100-days-of-code-in-python
 Udemy Angela Yu's course that has 100 projects for students to make each day with classes with duration of 1~2 hours each day.<br>
-This repository will store all the related projects. If you are intrested in any code files, please run the code in an IDE for python.<hr>
+This repository will store all the related projects. If you are intrested in any code files, please run the code in an IDE for python, although i recommend running it in replit as some modules are imported based on the website.<hr>
 
 Below is my summary of what I've learned everyday and the link to fork the project in Repl.it(Online IDE):
 
@@ -71,9 +71,15 @@ Created a program based on the concept of a silent auction where the concept is 
 2. Reminded me the logic and concept of while loops, for loops , if/else statement. 
 3. Learned that dictionaries will be useful in the future to access data in keys.
 
-<b>Day 10</b> ():<br>
-
+<b>Day 10</b> (https://repl.it/@LeeRen1/D10-calculatorPOTD):<br>
+Created a basic calculator that could do addition/subtraction/multiplication/division. The calculator can loop through so that the user could use the first answer to make another calculation or restart a brand new calculation.
+1. Learned about recursion. Which is calling the function inside the same function so that it executes on a certain condition. (line 31 & line 56)
+2. Learned about flagging with while loops. Which is to check if a certain condition is true until the condition becomes false where it will proceed to execute other codes. 
+3. Reminded me of the concept of key and value of the dictionary.
+4. Learned that the input function itself could be used as an output and therefore could be used as a condition. (line 51)
+5. Learned the difference between print and return. 
 <hr>
+
 <b>Day 11</b> ():<br>
 
 <b>Day 12</b> ():<br>
