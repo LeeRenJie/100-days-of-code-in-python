@@ -108,6 +108,9 @@ def play_game():
       user_should_deal = input("Type 'y' to get another card, type 'n' to pass: ")
       if user_should_deal == "y":
         user_cards.append(deal_card())
+      elif user_score < 17:
+        print("Your cards are less than 17. You would have to draw a card")
+        user_cards.append(deal_card())
       else:
         is_game_over = True
 
