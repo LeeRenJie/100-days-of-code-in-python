@@ -80,7 +80,14 @@ Created a basic calculator that could do addition/subtraction/multiplication/div
 5. Learned the difference between print and return. 
 <hr>
 
-<b>Day 11</b> ():<br>
+<b>Day 11</b> (https://repl.it/@LeeRen1/D11-blackjackPOTD):<br>
+Built a Blackjack  game (Player with cards closest to 21 wins/sum of scores must be above 17/if two cards=21=blackjack=wins the game immediately)
+1. Applied the knowledge used in the past 10 days.
+2. Used docstring (6 quotes/""" definition""") to define a function's purpose (when you use the function or hover over it the definition of the function will be shown)
+3.  Applied flagging and recursion again.
+4. Reminded me that the functions you created should be before the line where you call it or it wont work.
+5. Learned about the sum() function and list.remove(item) function.
+6. It was hard but fun 😊
 
 <b>Day 12</b> ():<br>
 
