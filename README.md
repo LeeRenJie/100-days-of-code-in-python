@@ -89,6 +89,14 @@ Built a Blackjack  game (Player with cards closest to 21 wins/sum of scores must
 5. Learned about the sum() function and list.remove(item) function.
 6. It was hard but fun 😊
 
-<b>Day 12</b> ():<br>
-
+<b>Day 12</b> (https://repl.it/@LeeRen1/D12-Number-Guessing-GamePOTD#main.py):<br>
+Created a number guessing game that uses most of the knowledge of past few days and add on with creating Constants. The user can choose between easy / hard to determine their turns avaialable to guess a number between 1 to 10.
+1. Learned about constants (Variables that you are not gonna change its value again like the pi value)
+2. Learned about global and local scopes(basically the location where u define your variables and whether it could be accessed within a function/while/for loop/if-else statement etc. Focuses on the indentation)
+3. Learned about the (global varible_name) that takes a variable into the function to allow it to be modified. But the return statement is recommended.
+4. Recapped about flagging
+5. Tried to complete the challenge before viewing the solution therefore I have two different solutions. (Top is from the video/ Bottom is mine)
+6. Used <a href="http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Big&t=GUESS%20THE%20NUMBER">Create ASCII Art following the words you type.</a>
+ to create ASCII art based on the words I typed in
+            
 <b>Day 13</b> ():<br>
