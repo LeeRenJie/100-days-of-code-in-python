@@ -96,7 +96,7 @@ Created a number guessing game that uses most of the knowledge of past few days 
 3. Learned about the (global varible_name) that takes a variable into the function to allow it to be modified. But the return statement is recommended.
 4. Recapped about flagging
 5. Tried to complete the challenge before viewing the solution therefore I have two different solutions. (Top is from the video/ Bottom is mine)
-6. Used <a href="http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Big&t=GUESS%20THE%20NUMBER">Create ASCII Art following the words you type.</a>
+6. Used <a href="http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Big&t=GUESS%20THE%20NUMBER">this website</a>
  to create ASCII art based on the words I typed in
             
 <b>Day 13</b> ():<br>
