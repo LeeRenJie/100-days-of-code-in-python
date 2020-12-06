@@ -99,4 +99,23 @@ Created a number guessing game that uses most of the knowledge of past few days 
 6. Used <a href="http://patorjk.com/software/taag/#p=display&h=1&v=1&f=Big&t=GUESS%20THE%20NUMBER">this website</a>
  to create ASCII art based on the words I typed in
             
-<b>Day 13</b> ():<br>
+<b>Day 13</b> (https://repl.it/@LeeRen1/D13-start#main.py):<br>
+The link above are examples of codes with bugs and their solution. Today is not a project day, but I learned 10 ways to debug🐞 codes:
+#1 "Describe the problem". Untangle the problem, and try to make sense of what is going on. 
+#2 "Reproduce the bug🐞". If u encounter it once but not every time, it will be hard to fix. Therefore, try to narrow down and find out what caused the bug and reproduce it to see If the same bug occurs every time. 
+#3 "Play computer". Try to think about how the computer will process the line of code and figure out what went wrong step by step. 
+#4 "Fix the error". Basically, fixing an error when you come across it as it is being highlighted by the IDE. 
+#5 "Print is your friend". Use the print statement to see after each line of code where you assume a change is made, simply print out the value of the variables to see if it is the same as what was expected.
+#6 "Use the debugger". Use <a href="https://thonny.org/">Thonny's Debugger</a> or <a href="http://pythontutor.com/">Python Tutor</a> to visualise how your code works line by line. 
+#7 "Take a break". Simply just have a short break to have a fresh mind or perspective and get back to it again later. 
+#8 "Ask a friend". This way you can get a new perspective without your own assumptions of what the code does and your friend can learn from your mistakes too! 
+#9 "Run Often". Run the code often when you feel that a change has been made and has an output. This was you can debug easily rather than debugging a pile of bugs. Tackle one bug at a time if you face multiple bugs 
+#10 "Ask <a href="https://stackoverflow.com/">StackOverflow</a>". StackOverflow has most of the questions answered and a huge community gladly to answer your unique questions. Search for your issues first to see if there is a similar question answered previously.
+
+<b>Day 14</b> ():<br>
+
+<b>Day 15</b> ():<br>
+
+<b>Day 16</b> ():<br>
+
+<b>Day 17</b> ():<br>
