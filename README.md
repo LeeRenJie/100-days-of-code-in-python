@@ -112,7 +112,14 @@ The link above are examples of codes with bugs and their solution. Today is not 
 9. "Run Often". Run the code often when you feel that a change has been made and has an output. This was you can debug easily rather than debugging a pile of bugs. Tackle one bug at a time if you face multiple bugs 
 10. "Ask <a href="https://stackoverflow.com/">StackOverflow</a>". StackOverflow has most of the questions answered and a huge community gladly to answer your unique questions. Search for your issues first to see if there is a similar question answered previously.
 
-<b>Day 14</b> ():<br>
+<b>Day 14</b> (https://repl.it/@LeeRen1/Day14-higher-lower-gamePOTD#main.py):<br>
+Built a higher-lower game that lets user guess which celebrity/ famous pages has more followers. If the user is right, b=a and b will generate a new celebrity.
+1. Reminded me about dictionaries and how to access the value with a key.
+2. Reminded me about the return statement and how it works.
+3. Reminded me about functions with inputs.
+4. Reminded me about flagging.
+5. Learned some new ways to assign a=b then b=random value each loop
+
 
 <b>Day 15</b> ():<br>
 
