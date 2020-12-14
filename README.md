@@ -121,7 +121,13 @@ Built a higher-lower game that lets user guess which celebrity/ famous pages has
 5. Learned some new ways to assign a=b then b=random value each loop
 
 
-<b>Day 15</b> ():<br>
+<b>Day 15</b> (https://repl.it/@LeeRen1/D15-coffee-machine-finalPOTD):<br>
+1. Stopped for a few days due to competition and school assignments. Became rusty and took quite some time to figure out the code. 😫
+1. Reminded me of dictionaries/ nested dictionaries and how to access the values.
+1. Reminded me of flagging
+1. Reminded me of the use of the return statement 
+1. Reminded me of the `global` statement
+1. Reminded me that breaking down codes into smaller chunks is easier to code.
 
 <b>Day 16</b> ():<br>
 
