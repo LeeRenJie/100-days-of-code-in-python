@@ -129,6 +129,11 @@ Built a higher-lower game that lets user guess which celebrity/ famous pages has
 1. Reminded me of the `global` statement
 1. Reminded me that breaking down codes into smaller chunks is easier to code.
 
-<b>Day 16</b> ():<br>
+<b>Day 16</b> (https://repl.it/@LeeRen1/oop-coffee-machinePOTD#menu.py):<br>
+1. Learned about object oriented programming.
+1. Exposed to <a href="https://pypi.org">Python Package Index(PyPI)</a> and used a module there(PrettyTable).
+1. Learned about classes, how to access or edit attributes `class.attributes` and use its methods `class.method()` of the classes to do OOP.
+1. Learned about <a href="https://docs.python.org/3/library/turtle.html#turtle.color">Tutle Graphics</a> and the `my_screen.exitonclick()` to close the pop up screen when clicked.
+1. Learned a lot about how to use PyCharm and its shotcuts. I searched for some plugins to beautify the code for better visualization. 
 
 <b>Day 17</b> ():<br>
